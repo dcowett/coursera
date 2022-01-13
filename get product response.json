@@ -1,0 +1,281 @@
+{
+  "orderable": null,
+  "orderLimit": null,
+  "listPrices": {
+    "defaultPriceGroup": 9.99
+  },
+  "type": "GiftCardProductType",
+  "coreProduct": false,
+  "shippable": true,
+  "primaryImageAltText": null,
+  "id": "FD2101733",
+  "brand": null,
+  "parentCategories": [
+    {
+      "repositoryId": "548"
+    },
+    {
+      "repositoryId": "fDNonNavSubCollection"
+    }
+  ],
+  "height": null,
+  "defaultProductListingSku": null,
+  "assetable": false,
+  "unitOfMeasure": null,
+  "targetAddOnProducts": [],
+  "seoKeywordsDerived": "Verizon bring your own device sim kits,Cell Phone Accessories & Headphones",
+  "seoUrlSlugDerived": "Verizon bring your own device sim kits",
+  "active": true,
+  "thumbImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "route": "/verizon-bring-your-own-device-sim-kits/FD2101733",
+  "relatedArticles": [],
+  "mediumImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "primarySourceImageURL": "/img/no-image.jpg",
+  "sourceImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "smsb_fitBase": null,
+  "x_finishRegexTest": null,
+  "primaryThumbImageURL": "/img/no-image.jpg",
+  "nonreturnable": false,
+  "displayName": "Verizon bring your own device sim kits",
+  "seoDescriptionDerived": "Verizon bring your own device sim kits",
+  "primaryFullImageURL": "/img/no-image.jpg",
+  "seoTitleDerived": "Verizon bring your own device sim kits",
+  "smsb_beddingSizeBase": null,
+  "primaryLargeImageURL": "/img/no-image.jpg",
+  "x_scentBase": null,
+  "filteredSKUs": [
+    {
+      "dynamicPropertyMapLong": {},
+      "bundleLinks": [],
+      "largeImage": null,
+      "smallImage": null,
+      "listVolumePrice": null,
+      "onlineOnly": false,
+      "listPrices": {
+        "defaultPriceGroup": 9.99
+      },
+      "configurationMetadata": [],
+      "largeImageURLs": [],
+      "productLine": null,
+      "listVolumePrices": {
+        "defaultPriceGroup": null
+      },
+      "derivedSalePriceFrom": "defaultPriceGroup",
+      "model": null,
+      "barcode": null,
+      "salePriceEndDate": null,
+      "images": [],
+      "unitOfMeasure": null,
+      "primaryMediumImageURL": null,
+      "dynamicPropertyMapBigString": {},
+      "active": true,
+      "thumbImageURLs": [],
+      "mediumImageURLs": [],
+      "primarySourceImageURL": null,
+      "sourceImageURLs": [],
+      "primarySmallImageURL": null,
+      "productFamily": null,
+      "primaryThumbImageURL": null,
+      "nonreturnable": false,
+      "displayName": null,
+      "salePrices": {
+        "defaultPriceGroup": null
+      },
+      "primaryFullImageURL": null,
+      "productListingSku": null,
+      "primaryLargeImageURL": null,
+      "derivedOnlineOnly": false,
+      "smallImageURLs": [],
+      "thumbnailImage": null,
+      "discountable": true,
+      "saleVolumePrices": {
+        "defaultPriceGroup": null
+      },
+      "saleVolumePrice": null,
+      "salePriceStartDate": null,
+      "quantity": 0,
+      "salePrice": null,
+      "fullImageURLs": [],
+      "variantValuesOrder": {},
+      "soldAsPackage": true,
+      "listingSKUId": null,
+      "repositoryId": "FD2101733",
+      "derivedListPriceFrom": "defaultPriceGroup",
+      "configurable": false,
+      "listPrice": 9.99
+    }
+  ],
+  "saleVolumePrices": {
+    "defaultPriceGroup": null
+  },
+  "childSKUs": [
+    {
+      "dynamicPropertyMapLong": {},
+      "bundleLinks": [],
+      "largeImage": null,
+      "smallImage": null,
+      "listVolumePrice": null,
+      "onlineOnly": false,
+      "listPrices": {
+        "defaultPriceGroup": 9.99
+      },
+      "configurationMetadata": [],
+      "largeImageURLs": [],
+      "productLine": null,
+      "listVolumePrices": {
+        "defaultPriceGroup": null
+      },
+      "derivedSalePriceFrom": "defaultPriceGroup",
+      "model": null,
+      "barcode": null,
+      "salePriceEndDate": null,
+      "images": [],
+      "unitOfMeasure": null,
+      "primaryMediumImageURL": null,
+      "dynamicPropertyMapBigString": {},
+      "active": true,
+      "thumbImageURLs": [],
+      "mediumImageURLs": [],
+      "primarySourceImageURL": null,
+      "sourceImageURLs": [],
+      "primarySmallImageURL": null,
+      "productFamily": null,
+      "primaryThumbImageURL": null,
+      "nonreturnable": false,
+      "displayName": null,
+      "salePrices": {
+        "defaultPriceGroup": null
+      },
+      "primaryFullImageURL": null,
+      "productListingSku": null,
+      "primaryLargeImageURL": null,
+      "derivedOnlineOnly": false,
+      "smallImageURLs": [],
+      "thumbnailImage": null,
+      "discountable": true,
+      "saleVolumePrices": {
+        "defaultPriceGroup": null
+      },
+      "saleVolumePrice": null,
+      "salePriceStartDate": null,
+      "quantity": 0,
+      "salePrice": null,
+      "fullImageURLs": [],
+      "soldAsPackage": true,
+      "listingSKUId": null,
+      "repositoryId": "FD2101733",
+      "derivedListPriceFrom": "defaultPriceGroup",
+      "configurable": false,
+      "listPrice": 9.99
+    }
+  ],
+  "salePriceStartDate": null,
+  "salePrice": null,
+  "smsb_curtainTypeBase": null,
+  "x_requiresServiceProvision": false,
+  "x_displayTypeBase": null,
+  "smsb_sockSizeBase": null,
+  "notForIndividualSale": false,
+  "dateAvailable": "2021-05-13T08:15:18.000Z",
+  "width": null,
+  "derivedListPriceFrom": "defaultPriceGroup",
+  "daysAvailable": 245,
+  "smsb_flavorBase": null,
+  "x_collectionBase": null,
+  "uPCs": "000000851330007418",
+  "listPrice": 9.99,
+  "storeBrand": "FD",
+  "parentCatalogs": [
+    {
+      "displayName": "Master Catalog",
+      "repositoryId": "cloudCatalog"
+    },
+    {
+      "displayName": "Family Dollar 2",
+      "repositoryId": "family-dollar-2"
+    },
+    {
+      "displayName": "Dollar Tree 2",
+      "repositoryId": "dollar-tree-2"
+    }
+  ],
+  "largeImage": null,
+  "listVolumePrice": null,
+  "keywords": [],
+  "excludeFromSitemap": true,
+  "relatedProducts": null,
+  "x_apparelSizeBase": null,
+  "onlineOnly": false,
+  "x_materialBase": null,
+  "seoMetaInfo": null,
+  "largeImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "smsb_shoeSizeBase": null,
+  "listVolumePrices": {
+    "defaultPriceGroup": null
+  },
+  "addOnProducts": [],
+  "derivedSalePriceFrom": "defaultPriceGroup",
+  "x_finishBase": null,
+  "smsb_windowTreatmentBase": null,
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://a1500499c4tst-admin.occa.us-ashburn-1.ocs.oraclecloud.com/ccadminui/v1/products/FD2101733"
+    }
+  ],
+  "salePriceEndDate": null,
+  "primaryMediumImageURL": "/img/no-image.jpg",
+  "weight": null,
+  "creationDate": "2021-05-13T08:15:18.000Z",
+  "taxCode": "900104",
+  "x_burnTimeBase": null,
+  "arrivalDate": null,
+  "parentCategory": {
+    "repositoryId": "548"
+  },
+  "primarySmallImageURL": "/img/no-image.jpg",
+  "longDescription": null,
+  "smsb_valanceTypeBase": null,
+  "description": null,
+  "salePrices": {
+    "defaultPriceGroup": null
+  },
+  "smallImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "derivedShippingSurchargeFrom": "defaultPriceGroup",
+  "shippingSurcharges": {
+    "defaultPriceGroup": null
+  },
+  "discountable": true,
+  "x_averageRatingRoundedAndUp": null,
+  "saleVolumePrice": null,
+  "primaryImageTitle": null,
+  "smsb_batterySizeBase": null,
+  "relatedMediaContent": [],
+  "fullImageURLs": [
+    "/img/no-image.jpg"
+  ],
+  "length": null,
+  "x_showOnWeb": "N",
+  "productImages": [],
+  "variantValuesOrder": {},
+  "x_patternBase": null,
+  "ocpProductId": null,
+  "repositoryId": "FD2101733",
+  "x_licensedProductBase": null,
+  "smsb_petBase": null,
+  "shippingSurcharge": null,
+  "productImagesMetadata": [
+    {}
+  ],
+  "configurable": false
+}
